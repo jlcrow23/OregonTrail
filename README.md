@@ -1,32 +1,26 @@
-# OregonTrail
+# PyGame Shooter Game
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+For this software learning session, I was attempting to learn how to use pygame with sounds and graphics.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I was attempting to write a game that would be a jet shooting aliens that randomly showed up on the screen.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+I wanted to learn how to use pygame.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Tools I used for this were VS Code, python, pygame, and libraries incorporated there in.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
+* [CodingWithRussOnYouTube](https://www.youtube.com/@CodingWithRuss/videos)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I really wanted to make this work but I think I made it too complicated. I was trying to take a space invader game and switch it to be left to right instead of top to bottom.
+* Add in more elements that work.
+* Learn more about pygame and creating games with coding.
